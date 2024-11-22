@@ -11,7 +11,7 @@ The *Calculator App* is a simple and stylish desktop calculator application buil
 - *Error Handling*: Displays an error message when an invalid expression is entered.
 
 ## Screenshots
-
+![image alt](https://github.com/Gunjan05-2001/Calculator/blob/d139beae74c3ebc468c237a4851f561f7feba670/calci%20ss.JPG)
 
 ## Requirements
 - Python 3.x
@@ -21,7 +21,7 @@ The *Calculator App* is a simple and stylish desktop calculator application buil
 
 ### Clone the Repository
 bash
-git clone https://github.com/yourusername/calculator-app.git
+git clone https://github.com/Gunjan05-2001/Calculator
 cd calculator-app
 
 
