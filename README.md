@@ -15,7 +15,7 @@ Requirements
 •	Tkinter library (comes pre-installed with Python)
 Installation and Usage
 Clone the Repository
-git clone https://github.com/yourusername/calculator-app.git
+git clone https://github.com/Gunjan05-2001/Calculator
 cd calculator-app
 Run the Application
 1.	Open a terminal or command prompt in the project directory.
